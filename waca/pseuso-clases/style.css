@@ -1,0 +1,13 @@
+.caja_1{
+padding: 20px;
+width: 30px;
+height: 30px;
+background-color: blue;
+font-size: 15px;
+}
+.caja_1:hover{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    transition: all 1s;
+}
